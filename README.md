@@ -1,16 +1,20 @@
-# noteme
-
-A new Flutter project.
+NoteMe is a simple note-taking application built with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with NoteMe, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: Make sure you have Flutter installed on your machine. Follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for instructions on how to install Flutter.
+- IDE: You can use any text editor or IDE of your choice. We recommend using Android Studio or Visual Studio Code with the Flutter plugin for the best development experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setting Up the Project
+
+1. Clone the repository to your local machine:
+
+[git clone https://github.com/your-username/noteme.git](https://github.com/soovittt/Flutter-Notes-App.git)
+
+2. Then flutter pub get
+3. Flutter run or run without debugging
+4. install the libraries using the install command
